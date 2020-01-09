@@ -34,4 +34,4 @@ A state machine was impemented consisting of the following states;
 
 ## Acknowledgments
 
-This project was built alongside with Andrew Schoen. 
+This project was built alongside Andrew Schoen. 
